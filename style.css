@@ -1,0 +1,85 @@
+html,
+body{
+height: 100%;
+font-family: 'Courier New', Courier, monospace;
+font-size: 1rem;
+}
+
+.central{
+margin-top: 50px;
+margin-bottom: 70px;
+
+}
+.central img{
+border-radius: 10px;
+}
+.galeria img {
+margin-top: 30px;
+border-radius: 8px;
+
+} 
+
+.contacto {
+margin-top: 50px;
+margin-bottom: 80px;
+    
+
+}
+
+#sobre {
+margin: 0px;
+font-size: 24px;
+border: 0px solid black;
+padding: 10px;
+text-align: center;
+line-height: 35px;
+font-family: Arial;
+}
+
+
+
+.footer{
+border: 1px solid black;
+border-color: #f2f2ff;
+margin-top: 10px;
+width: 100%;
+height: auto;
+text-align:center;
+position: relative;
+
+
+}
+
+
+
+.footer ul li{
+position: relative;
+display: inline;
+padding: 10px;
+margin-right: 10px;
+top: 7px;
+}
+
+.footer ul li a{
+text-align:center;
+border: px solid black;
+}
+
+
+
+.gradient{
+background: rgb(117,38,53);
+background: linear-gradient(4deg, rgba(117,38,53,1) 0%, rgba(110,115,154,1) 0%, rgba(170,107,108,1) 0%, rgba(208,93,101,1) 11%, rgba(0,212,255,1) 100%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
